@@ -1,6 +1,8 @@
 ## Heather Crawford
 
-People Operations and enterprise transformation. I build the systems behind how work works.
+**Strategic initiatives · Enterprise transformation · Operating model and execution**
+
+I build the operating infrastructure behind growth, change and complex execution. Fifteen years turning enterprise priorities into scalable operating models across people, process and technology: aligning leaders, redesigning organisations, governing cross-functional programs, and building the systems and capability required to execute. The breadth of an operator with deep people expertise.
 
 Most of what I build runs inside a complex B2B industrial technology enterprise, so the repositories here are private. This page is the description.
 
